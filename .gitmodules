@@ -1,0 +1,6 @@
+[submodule "EjemploLibreria/LIB_BasesPoligonos"]
+	path = EjemploLibreria/LIB_BasesPoligonos
+	url = https://github.com/tahiapr/LIB_BasesPoligonos
+[submodule "EjemploLibreria/Lib"]
+	path = EjemploLibreria/Lib
+	url = https://github.com/tahiapr/LIB_BasesPoligonos
