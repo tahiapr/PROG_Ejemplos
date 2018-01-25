@@ -18,8 +18,8 @@ public class ExemploArraysObxetos {
     public static void main(String[] args) {
         MetodosArray obx1 = new MetodosArray();
         
-        Persoa[] listaPersoas = {new Persoa("Laura","Diz","77461794W"),new Persoa("Pepe","Rodriguez","77489856R"),
-            new Persoa("Luis","Perez","77412369F"),new Persoa("Ana","Sanchez","77458962T")};
+        Persoa[] listaPersoas = {new Persoa("lolita","Dizz","77461794W"),new Persoa("Pepe","Rodriguez","77489856R"),
+            new Persoa("Luis","Perezoso","45678919F"),new Persoa("Ana","Lopez","77458962T")};
         
         obx1.buscar(listaPersoas, "77461794W");
         
