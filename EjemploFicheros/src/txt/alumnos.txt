@@ -1,0 +1,4 @@
+alex, 8
+ana, 9
+roberto, 2
+loreto, 7
